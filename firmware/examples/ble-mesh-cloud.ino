@@ -1,165 +1,3 @@
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statementhttps://build.particle.io/build/56eaea97bd9cf0716b00065e#flash was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
-// This #include statement was automatically added by the Particle IDE.
-#include "nrf8001-ble-uart-spark-io/nrf8001-ble-uart-spark-io.h"
-
 /* Copyright (c) 2014, Nordic Semiconductor ASA
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -184,11 +22,11 @@
 // send commands with
 // curl https://api.spark.io/v1/devices/[ID]/set_val -d access_token=[token] -d "args=11"
 
-#include "nrf8001-ble-uart-spark-io/lib_aci.h"
-#include "nrf8001-ble-uart-spark-io/boards.h"
+#include "particle-update/lib_aci.h"
+#include "particle-update/boards.h"
 
-#include "nrf8001-ble-uart-spark-io/rbc_mesh_interface.h"
-#include "nrf8001-ble-uart-spark-io/serial_evt.h"
+#include "particle-update/rbc_mesh_interface.h"
+#include "particle-update/serial_evt.h"
 
 #define ACCESS_ADDR     (0xA541A68F)
 //#define ACCESS_ADDR     (e4cf98b0bd299b9ac1e84091626157a9fd6f0002)
@@ -454,6 +292,5 @@ void loop() {
             //lastResponse = evnt.params.cmd_rsp.response.val_get.data[0];
         }
     }
-    
     
 }
