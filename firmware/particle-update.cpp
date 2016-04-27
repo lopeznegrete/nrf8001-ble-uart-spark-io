@@ -52,7 +52,7 @@ The following instructions describe the steps to be made on the Windows PC:
  * }
  *
  */
-#include "nrf8001-ble-uart-spark-io.h"
+#include "particle-update.h"
  
  /*
 Description:
