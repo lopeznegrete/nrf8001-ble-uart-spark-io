@@ -28,7 +28,7 @@
 #include "particle-update/rbc_mesh_interface.h"
 #include "particle-update/serial_evt.h"
 
-#define ACCESS_ADDR     (0xA541A68F)
+#define ACCESS_ADDR     (0x8E89BED6)
 //#define ACCESS_ADDR     (e4cf98b0bd299b9ac1e84091626157a9fd6f0002)
 
 // defining the state of the system for communication
@@ -62,20 +62,30 @@ int set_val(String args){
         return -5;
     }
     state = waitingForEvent;
+    
+    int loc1 = 0;
+    int loc2 = 0;
 
-    //uint8_t handle = args[0] - '0';
-    uint8_t handle_hi = args[0] - '0';
-    uint8_t handle_lo = args[1] - '0';
+    loc1 = args.indexOf(",");
+    uint8_t handle_hi = args.substring(0,loc1).toInt();
+
+    loc2 = args.indexOf(",",loc1+1);
+    uint8_t handle_lo = args.substring(loc1+1,loc2).toInt();
+
+    uint8_t value[1];
+    value[0] = args.substring(loc2+1).toInt();
+    
+    
+    Serial.printlnf("args: %p %p %p", handle_hi, handle_lo, value[0]);
+    Serial.println(args);
+    
+    
     uint16_t handle = (handle_hi *10 + handle_lo);
     Serial.println("handle: ");
-    Serial.print(handle);
-    //uint8_t value = 0;
-    uint8_t value  = args[2] - '0';
-    //uint8_t value = args.toInt();
-
-   // Serial.printlnf("%p", &value);
-
-    return rbc_mesh_value_set(handle, &value, (uint8_t) 1);
+    Serial.println(handle);
+    
+    return rbc_mesh_value_set(handle, value, (uint8_t) 1);
+    return 1;
 }
 
 /*int get_val(String args){
